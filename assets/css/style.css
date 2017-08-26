@@ -1,0 +1,11 @@
+body {
+	background-image: url(../images/CinemaBackground.jpg);
+	padding-bottom: 100px;
+	color: white;
+}
+
+h1.text {
+	font: 60px;
+}
+
+
